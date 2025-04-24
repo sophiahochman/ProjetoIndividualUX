@@ -26,6 +26,7 @@ O "ReservaInteli" seria um sistema web desenvolvido para facilitar o processo de
 
 ### 2. Persona
 
+![Image](https://github.com/user-attachments/assets/f8cda816-eadc-479f-bae2-890758475163)
 
 ### 3. User Stories
 
