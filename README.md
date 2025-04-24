@@ -1,4 +1,3 @@
-# ProjetoIndividualUX
 # Projeto Individual (UX Parte 1): Personas e User Stories
 
 ## Objetivo
@@ -17,20 +16,16 @@ Elaborar uma persona e User Stories (US) para o sistema do seu projeto individua
 ## Instruções
 
 ### 1. Introdução
-Crie a ideia inicial do seu projeto individual, indicando uma das opções disponíveis para o projeto, e preencha a seção 1 (Introdução) do PI-WAD.
+
+Título do Projeto: ReservaInteli
+
+Tipo de Sistema: Sistema de reserva de salas com agndamentos mais rápidos e fáceis
+
+Descrição da Ideia:
+O "ReservaInteli" seria um sistema web desenvolvido para facilitar o processo de reserva de salas para os alunos, professores e orientadores do Inteli. Atualmente, os alunos precisam solicitar reservas diretamente na recepção, o que consome tempo, causa filas e pode gerar erros humanos. O sistema permitirá que estudantes e professores reservem salas de forma prática, rápida e transparente, garantindo mais autonomia e eficiência no uso dos espaços.
 
 ### 2. Persona
-Elabore uma persona do seu projeto individual, usando um template pronto ou criando o seu, e preencha a seção 2.1 (Persona) do PI-WAD.
 
-A persona deve ser apresentada como uma **imagem única**. Inclua os seguintes campos:
-
-- Nome  
-- Idade  
-- Ocupação  
-- Hábitos digitais  
-- Necessidades  
-- Dores
-- Solução: descreva como o sistema proposto afeta ou ajuda esse usuário
 
 ### 3. User Stories
 
