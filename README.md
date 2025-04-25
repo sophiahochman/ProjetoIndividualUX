@@ -1,50 +1,107 @@
-# Projeto Individual (UX Parte 1): Personas e User Stories
+# Web Application Document - Projeto Individual - Módulo 2 - Inteli
 
-## Objetivo
+**_Os trechos em itálico servem apenas como guia para o preenchimento da seção. Por esse motivo, não devem fazer parte da documentação final._**
 
-Elaborar uma persona e User Stories (US) para o sistema do seu projeto individual, representando as funcionalidades esperadas e refletindo sobre como elas atendem às necessidades da persona criada.
+## Nome do Projeto
+ReservaInteli
 
-## Entrega
+#### Autor do projeto
+Sophia Hochman
 
-- Preencher as seções 1 e 2 do arquivo `PI-WAD.md`
-- Inserir o link do seu repositório GitHub individual no card da AdaLove
+## Sumário
 
-**Prazo de Entrega:** Até sexta-feira, 23h59
+1. [Introdução](#c1)  
+2. [Visão Geral da Aplicação Web](#c2)  
+3. [Projeto Técnico da Aplicação Web](#c3)  
+4. [Desenvolvimento da Aplicação Web](#c4)  
+5. [Referências](#c5)  
+
+<br>
+
+## <a name="c1"></a>1. Introdução (Semana 01)
+
+O sistema que será desenvolvido é uma plataforma web de reserva de salas para estudantes da Inteli, com foco na praticidade e na autonomia do usuário. Atualmente, o processo de reserva de salas na Inteli é realizado presencialmente, diretamente na recepção. Esse método, além de consumir tempo, está sujeito a erros humanos e falhas de comunicação, o que frequentemente gera frustrações para alunos e funcionários.
+
+Pensando nisso, o sistema proposto permitirá que os estudantes visualizem a disponibilidade das salas e façam reservas online de forma rápida e prática, seja pelo celular ou computador. A plataforma também enviará confirmações por e-mail e permitirá o cancelamento ou reagendamento das reservas com facilidade.
+
+O objetivo é tornar o processo mais eficiente, transparente e acessível, reduzindo a carga de trabalho da equipe administrativa e melhorando a experiência dos alunos no uso dos espaços compartilhados da faculdade. A interface será simples, intuitiva e otimizada para dispositivos móveis, considerando os hábitos digitais dos estudantes da Inteli.
 
 ---
 
-## Instruções
+## <a name="c2"></a>2. Visão Geral da Aplicação Web
 
-### 1. Introdução
+### 2.1. Personas (Semana 01)
 
-Título do Projeto: ReservaInteli
+*Posicione aqui sua(s) Persona(s) em forma de texto markdown com imagens, ou como imagem de template preenchido. Atualize esta seção ao longo do módulo se necessário.*
 
-Tipo de Sistema: Sistema de reserva de salas com agndamentos mais rápidos e fáceis
+### 2.2. User Stories (Semana 01)
 
-Descrição da Ideia:
-O "ReservaInteli" seria um sistema web desenvolvido para facilitar o processo de reserva de salas para os alunos, professores e orientadores do Inteli. Atualmente, os alunos precisam solicitar reservas diretamente na recepção, o que consome tempo, causa filas e pode gerar erros humanos. O sistema permitirá que estudantes e professores reservem salas de forma prática, rápida e transparente, garantindo mais autonomia e eficiência no uso dos espaços.
+*Posicione aqui a lista de User Stories levantadas para o projeto. Siga o template de User Stories e utilize a referência USXX para numeração (US01, US02, US03, ...). Indique todas as User Stories mapeadas, mesmo aquelas que não forem implementadas ao longo do projeto. Não se esqueça de explicar o INVEST de 1 User Storie prioritária.*
 
-### 2. Persona
+---
 
-![Image](https://github.com/user-attachments/assets/f8cda816-eadc-479f-bae2-890758475163)
+## <a name="c3"></a>3. Projeto da Aplicação Web
 
-### 3. User Stories
+### 3.1. Modelagem do banco de dados  (Semana 3)
 
-Crie **3 User Stories** que representem funcionalidades centrais do seu sistema e preencha a seção 2.2 (User Stories) do PI-WAD.
+*Posicione aqui os diagramas de modelos relacionais do seu banco de dados, apresentando todos os esquemas de tabelas e suas relações. Utilize texto para complementar suas explicações, se necessário.*
 
-As US devem seguir o seguinte formato:
+*Posicione também o modelo físico com o Schema do BD (arquivo .sql)*
 
-> *Como [tipo de usuário], quero [ação/função desejada], para que [benefício ou motivação].*
+### 3.1.1 BD e Models (Semana 5)
+*Descreva aqui os Models implementados no sistema web*
 
-**Exemplo:**
+### 3.2. Arquitetura (Semana 5)
 
-> US01 | Como estudante universitário, quero salvar atividades favoritas no sistema, para que eu possa acessá-las rapidamente durante os estudos.
+*Posicione aqui o diagrama de arquitetura da sua solução de aplicação web. Atualize sempre que necessário.*
 
-Escolha **uma das User Stories** para analisá-la com base nos critérios **INVEST**. Justifique por que ela se enquadra em cada um dos critérios:
+**Instruções para criação do diagrama de arquitetura**  
+- **Model**: A camada que lida com a lógica de negócios e interage com o banco de dados.
+- **View**: A camada responsável pela interface de usuário.
+- **Controller**: A camada que recebe as requisições, processa as ações e atualiza o modelo e a visualização.
+  
+*Adicione as setas e explicações sobre como os dados fluem entre o Model, Controller e View.*
 
-- **I** – Independente  
-- **N** – Negociável  
-- **V** – Valiosa  
-- **E** – Estimável  
-- **S** – Pequena (Small)  
-- **T** – Testável
+### 3.3. Wireframes (Semana 03)
+
+*Posicione aqui as imagens do wireframe construído para sua solução e, opcionalmente, o link para acesso (mantenha o link sempre público para visualização).*
+
+### 3.4. Guia de estilos (Semana 05)
+
+*Descreva aqui orientações gerais para o leitor sobre como utilizar os componentes do guia de estilos de sua solução.*
+
+
+### 3.5. Protótipo de alta fidelidade (Semana 05)
+
+*Posicione aqui algumas imagens demonstrativas de seu protótipo de alta fidelidade e o link para acesso ao protótipo completo (mantenha o link sempre público para visualização).*
+
+### 3.6. WebAPI e endpoints (Semana 05)
+
+*Utilize um link para outra página de documentação contendo a descrição completa de cada endpoint. Ou descreva aqui cada endpoint criado para seu sistema.*  
+
+### 3.7 Interface e Navegação (Semana 07)
+
+*Descreva e ilustre aqui o desenvolvimento do frontend do sistema web, explicando brevemente o que foi entregue em termos de código e sistema. Utilize prints de tela para ilustrar.*
+
+---
+
+## <a name="c4"></a>4. Desenvolvimento da Aplicação Web (Semana 8)
+
+### 4.1 Demonstração do Sistema Web (Semana 8)
+
+*VIDEO: Insira o link do vídeo demonstrativo nesta seção*
+*Descreva e ilustre aqui o desenvolvimento do sistema web completo, explicando brevemente o que foi entregue em termos de código e sistema. Utilize prints de tela para ilustrar.*
+
+### 4.2 Conclusões e Trabalhos Futuros (Semana 8)
+
+*Indique pontos fortes e pontos a melhorar de maneira geral.*
+*Relacione também quaisquer outras ideias que você tenha para melhorias futuras.*
+
+
+
+## <a name="c5"></a>5. Referências
+
+_Incluir as principais referências de seu projeto, para que seu parceiro possa consultar caso ele se interessar em aprofundar. Um exemplo de referência de livro e de site:_<br>
+
+---
+---
