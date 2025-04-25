@@ -45,6 +45,21 @@ US02 | Como estudante do Inteli, quero reservar uma sala diretamente pelo sistem
 US03 | Como estudante do Inteli, quero poder cancelar ou alterar uma reserva feita, para que eu não ocupe a sala caso meus planos mudem.
 US04 | Como estudante do Inteli, quero poder favoritar salas que eu uso com frequência, para agilizar minhas próximas reservas.
 
+
+US02 | Como estudante da Inteli, quero reservar uma sala diretamente pelo sistema, para tornar o processo mais rápido e autônomo.(Prioritária)
+
+I – Independente: Funciona sozinha, desde que as salas estejam cadastradas no sistema.
+
+N – Negociável: A forma de reserva pode ser adaptada (com ou sem login, com seleção por dia ou por grade semanal, etc).
+
+V – Valiosa: Resolve o maior incômodo atual — a dependência da recepção para fazer reservas.
+
+E – Estimável: A equipe consegue estimar o esforço com base em sistemas similares e frameworks usados.
+
+S – Small: Pode ser desenvolvida como uma funcionalidade bem focada (preencher e enviar reserva).
+
+T – Testável: Pode ser testada simulando uma reserva e verificando a resposta do sistema.
+
 ---
 
 ## <a name="c3"></a>3. Projeto da Aplicação Web
