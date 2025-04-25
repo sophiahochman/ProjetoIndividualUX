@@ -18,11 +18,11 @@ Sophia Hochman
 
 ## <a name="c1"></a>1. Introdução (Semana 01)
 
-O sistema que será desenvolvido é uma plataforma web de reserva de salas para estudantes da Inteli, com foco na praticidade e na autonomia do usuário. Atualmente, o processo de reserva de salas na Inteli é realizado presencialmente, diretamente na recepção. Esse método, além de consumir tempo, está sujeito a erros humanos e falhas de comunicação, o que frequentemente gera frustrações para alunos e funcionários.
+O sistema que será desenvolvido é uma plataforma web de reserva de salas para estudantes do Inteli, com foco na praticidade e na autonomia do usuário. Atualmente, o processo de reserva de salas no Inteli é realizado presencialmente, diretamente na recepção. Esse método, além de consumir tempo, está sujeito a erros humanos e falhas de comunicação, o que frequentemente gera frustrações para alunos e funcionários.
 
 Pensando nisso, o sistema proposto permitirá que os estudantes visualizem a disponibilidade das salas e façam reservas online de forma rápida e prática, seja pelo celular ou computador. A plataforma também enviará confirmações por e-mail e permitirá o cancelamento ou reagendamento das reservas com facilidade.
 
-O objetivo é tornar o processo mais eficiente, transparente e acessível, reduzindo a carga de trabalho da equipe administrativa e melhorando a experiência dos alunos no uso dos espaços compartilhados da faculdade. A interface será simples, intuitiva e otimizada para dispositivos móveis, considerando os hábitos digitais dos estudantes da Inteli.
+O objetivo é tornar o processo mais eficiente, transparente e acessível, reduzindo a carga de trabalho da equipe da recepção e melhorando a experiência dos alunos no uso dos espaços compartilhados da faculdade. A interface será simples, intuitiva e otimizada para dispositivos móveis, considerando os hábitos digitais dos estudantes do Inteli.
 
 ---
 
@@ -40,10 +40,10 @@ O objetivo é tornar o processo mais eficiente, transparente e acessível, reduz
 
 \# | User Stories 
 --- | ---
-US01 | Como estudante da Inteli, quero visualizar a disponibilidade das salas, para que eu possa escolher um horário livre com facilidade.
-US02 | Como estudante da Inteli, quero reservar uma sala diretamente pelo sistema, para não precisar ir até a recepção.
-US03 | Como estudante da Inteli, quero poder cancelar ou alterar uma reserva feita, para que eu não ocupe a sala caso meus planos mudem.
-US04 | Como estudante da Inteli, quero poder favoritar salas que eu uso com frequência, para agilizar minhas próximas reservas.
+US01 | Como estudante do Inteli, quero visualizar a disponibilidade das salas, para que eu possa escolher um horário livre com facilidade.
+US02 | Como estudante do Inteli, quero reservar uma sala diretamente pelo sistema, para não precisar ir até a recepção.
+US03 | Como estudante do Inteli, quero poder cancelar ou alterar uma reserva feita, para que eu não ocupe a sala caso meus planos mudem.
+US04 | Como estudante do Inteli, quero poder favoritar salas que eu uso com frequência, para agilizar minhas próximas reservas.
 
 ---
 
