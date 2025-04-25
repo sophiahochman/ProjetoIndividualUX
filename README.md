@@ -30,11 +30,18 @@ O objetivo é tornar o processo mais eficiente, transparente e acessível, reduz
 
 ### 2.1. Personas (Semana 01)
 
+
 ![Image](https://github.com/user-attachments/assets/88284daf-5956-4c2b-a9e5-2af5ba422496)
+
+
 
 ### 2.2. User Stories (Semana 01)
 
-*Posicione aqui a lista de User Stories levantadas para o projeto. Siga o template de User Stories e utilize a referência USXX para numeração (US01, US02, US03, ...). Indique todas as User Stories mapeadas, mesmo aquelas que não forem implementadas ao longo do projeto. Não se esqueça de explicar o INVEST de 1 User Storie prioritária.*
+
+US01 | Como estudante da Inteli, quero visualizar a disponibilidade das salas, para que eu possa escolher um horário livre com facilidade.
+US02 | Como estudante da Inteli, quero reservar uma sala diretamente pelo sistema, para não precisar ir até a recepção.
+US03 | Como estudante da Inteli, quero poder cancelar ou alterar uma reserva feita, para que eu não ocupe a sala caso meus planos mudem.
+US04 | Como estudante da Inteli, quero poder favoritar salas que eu uso com frequência, para agilizar minhas próximas reservas.
 
 ---
 
