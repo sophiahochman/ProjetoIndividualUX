@@ -30,7 +30,7 @@ O objetivo é tornar o processo mais eficiente, transparente e acessível, reduz
 
 ### 2.1. Personas (Semana 01)
 
-*Posicione aqui sua(s) Persona(s) em forma de texto markdown com imagens, ou como imagem de template preenchido. Atualize esta seção ao longo do módulo se necessário.*
+![Image](https://github.com/user-attachments/assets/88284daf-5956-4c2b-a9e5-2af5ba422496)
 
 ### 2.2. User Stories (Semana 01)
 
