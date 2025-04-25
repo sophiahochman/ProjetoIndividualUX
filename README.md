@@ -31,7 +31,7 @@ O objetivo é tornar o processo mais eficiente, transparente e acessível, reduz
 ### 2.1. Personas (Semana 01)
 
 
-![Image](https://github.com/user-attachments/assets/88284daf-5956-4c2b-a9e5-2af5ba422496)
+![Image](https://github.com/user-attachments/assets/273a0e17-4b8d-491c-b875-7e7b79ee4a28)
 
 
 
