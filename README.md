@@ -38,6 +38,8 @@ O objetivo é tornar o processo mais eficiente, transparente e acessível, reduz
 ### 2.2. User Stories (Semana 01)
 
 
+\# | User Stories 
+--- | ---
 US01 | Como estudante da Inteli, quero visualizar a disponibilidade das salas, para que eu possa escolher um horário livre com facilidade.
 US02 | Como estudante da Inteli, quero reservar uma sala diretamente pelo sistema, para não precisar ir até a recepção.
 US03 | Como estudante da Inteli, quero poder cancelar ou alterar uma reserva feita, para que eu não ocupe a sala caso meus planos mudem.
